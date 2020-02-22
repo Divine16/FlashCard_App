@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Study Flashcard</string>
+    <string name="when_was_morehouse_college_founded">When was morehouse college founded!</string>
+    <string name="textview">TextView</string>
+    <string name="who_is_the_first_balck_president_of_america">Who is the first balck president of America</string>
+    <string name="who_is_the_first_black_president">Who is the first black president</string>
+</resources>
